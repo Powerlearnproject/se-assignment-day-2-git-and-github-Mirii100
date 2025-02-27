@@ -27,7 +27,7 @@ Backup: Acts as a backup of your codebase.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 
-    Process of Setting Up a New Repository on GitHub
+  Process of Setting Up a New Repository on GitHub
 Create a New Repository:
 Log in to GitHub.
 Click the "+" icon in the upper right corner and select "New repository".
